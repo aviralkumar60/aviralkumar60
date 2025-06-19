@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently learning **React**
-- 📫 Reach me at: **kumaraviral2004@gmail.com**
+- 📫 Reach me at: **aviralkumar022004@gmail.com**
 - 🌐 Portfolio: [aviralkumarportfolio.vercel.app](https://aviralkumarportfolio.vercel.app)
 - 💬 Chat with me: [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?logo=whatsapp)](https://wa.me/917880570474)
 
